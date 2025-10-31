@@ -48,6 +48,8 @@ The project followed a complete data science pipeline, from data engineering to 
 
 * The project culminates in a professional, interactive dashboard created with **Microsoft Power BI**.  
 * The dashboard allows users to visualize a comparison of **True vs. Predicted speeds**, track the model's **overall accuracy (MAE)**, and identify the **most severe anomalies** by sensor and time.
+  <img width="1373" height="832" alt="image" src="https://github.com/user-attachments/assets/b541cc3b-962a-4fb3-8239-8beca8bd5d91" />
+
 
 ## **Skills Demonstrated**
 
